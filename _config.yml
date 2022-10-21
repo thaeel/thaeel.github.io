@@ -14,7 +14,7 @@ author: Thaeel
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Me concernant: "A propos de moi"
+  Me concernant: aboutme
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
