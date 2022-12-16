@@ -9,7 +9,7 @@ Je m'apelle Mael, je suis en L3P3 et j'aime:
 - Le dessin
 - les jeux vidéo
 
-Mon projey professionelle
+Mon projet professionelle :
 
 
 
