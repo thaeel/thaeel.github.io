@@ -1,0 +1,9 @@
+footer.footer-min {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 0.1875rem;
+  background-color: #000000 !important;
+  border-top: 1px solid #eeeeee;
+  text-align: center;
+}
