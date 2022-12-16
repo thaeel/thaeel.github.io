@@ -3,8 +3,8 @@ layout: post
 title: Qu'est ce qu'un character designer ?
 subtitle: Métier en expenssion
 cover-img: assets/img/zhong-yang-1080.jpg
-thumbnail-img: assets/img/3n1olufiittx.jpg
-share-img: /assets/img/path.jpg
+thumbnail-img: assets/img/wendigo3.png
+share-img: assets/img/shoto-todoroki-nawpic-7-512.jpg
 tags: [books, test]
 ---
 
