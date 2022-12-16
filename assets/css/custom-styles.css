@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
 footer {
   background-color: #000000 !important;
 }
 body {
-  font-family: 'Lora', 'Times New Roman', serif !impotant;
+  font-family: 'Roboto Condensed', sans-serif !impotant;
  
   color:"#FFFF00" !impotant;
 
