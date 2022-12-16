@@ -11,6 +11,6 @@ Je m'apelle Mael, je suis en L3P3 et j'aime:
 
 Mon projey professionelle
 
-### My story
+
 
 Mon but a terme, serait de devenir character designer, création de personnage, concept art etc... Pour ca il faut énormement dessiner et etre curieux.
