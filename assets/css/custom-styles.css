@@ -1,3 +1,12 @@
 footer {
   background-color: #000000 !important;
 }
+body {
+  font-family: 'Lora', 'Times New Roman', serif;
+  color: {{ site.text-col | default: "#008000" }};
+  position: relative;
+  background-color: {{ site.page-col | default: "#FFFF00" }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img | relative_url }});
+  
+}
