@@ -8,5 +8,4 @@ body {
   background-color: {{ site.page-col | default: "#FFFF00" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
-  
-}
+  }
