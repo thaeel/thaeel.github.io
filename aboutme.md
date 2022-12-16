@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About li
-subtitle: Why you'd want to go on a date with me
+title: A propos de moi
+subtitle: Qui suis je ?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Je m'apelle Mael, je suis en L3P3 et j'aime:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Le dessin
+- les jeux vidéo
 
-What else do you need?
+Mon projey professionelle
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Mon but a terme, serait de devenir character designer, création de personnage, concept art etc... Pour ca il faut énormement dessiner et etre curieux.
