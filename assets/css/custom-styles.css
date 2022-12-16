@@ -3,9 +3,13 @@ footer {
 }
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  color: {{ site.text-col | default: "#008000" }};
+  font-size: 1.125rem;
+  color: {{ site.text-col | default: "#FFFF00" }};
   position: relative;
-  background-color: {{ site.page-col | default: "#FFFF00" }};
+  background-color: {{ site.page-col | default: "#EE82EE" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
-  }
+  background-attachment: fixed;
+  {% endif %}
+  overflow-wrap: break-word;
+}
