@@ -1,6 +1,9 @@
-body {
-cover-img: assets/img/kayn.jpg;
-cover-img: assets/img/loup garou étape21.png;
-cover-img: assets/img/mains exo 1.png;
-cover-img: assets/img/viper 1.png;
-}
+---
+layout: post
+title: portfolio
+subtitle: Thaeel Art
+cover-img: assets/img/zhong-yang-1080.jpg
+thumbnail-img: assets/img/wendigo3.png
+share-img: assets/img/shoto-todoroki-nawpic-7-512.jpg
+tags: [books, test]
+---
